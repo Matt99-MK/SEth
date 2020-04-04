@@ -1,0 +1,24 @@
+<?xml version="1.0.0" encoding="utf-8"?>
+<SEthProject>
+  <User ID="535337">
+    <Photo_Path>C:\Users\metju\Desktop\Programming\ConsoleApplications\SEth\SEth\extern_files\Icons\nice_smile.jpg</Photo_Path>
+    <Favorite>0</Favorite>
+    <Surname>Kowalski</Surname>
+    <Name>Mateusz</Name>
+    <IP_ADRESS>192.168.0.105</IP_ADRESS>
+  </User>
+  <User ID="423423">
+    <Photo_Path>C:\Users\metju\Desktop\Programming\ConsoleApplications\SEth\SEth\extern_files\Icons\the_amazing_space_ii.jpg</Photo_Path>
+    <Favorite>0</Favorite>
+    <Surname>Janusz</Surname>
+    <Name>Janusz</Name>
+    <IP_ADRESS>192.168.0.101</IP_ADRESS>
+  </User>
+  <User ID="434334">
+    <Photo_Path>C:\Users\metju\Desktop\Programming\ConsoleApplications\SEth\SEth\extern_files\Icons\123.jpg</Photo_Path>
+    <Favorite>0</Favorite>
+    <Surname>computer</Surname>
+    <Name>local</Name>
+    <IP_ADRESS>127.0.0.1</IP_ADRESS>
+  </User>
+</SEthProject>

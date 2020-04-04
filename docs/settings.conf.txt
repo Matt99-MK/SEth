@@ -1,0 +1,6 @@
+[AppConfig]
+App=0
+[Servers]
+Default=192.168.0.105
+[Protocols]
+Default=3306

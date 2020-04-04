@@ -1,0 +1,3 @@
+1.Aby dołączyć pliki biblioteki POCO należy zmienić w pliku private.h(Wxwdigets) nazwe ::GetModuleFileName na GetModuleFileNameW (alias pointera).
+2.To keep proper order in including (winsock2 before windows) add_definitions(-DWIN32_LEAN_AND_MEAN) in cmake.
+3.TCPServer is using multithreading and wxiwdget not allowed us to add update gui from this thread so we must pass event to main thread and then update control
